@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d8b207d-bb6b-4ed5-af95-b6cc78eeb7a9" name="Default" comment="" />
+    <ignored path="ADJ.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ADJ" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Groupe.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/entites/Groupe.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="786" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vues" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modeles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADJ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d8b207d-bb6b-4ed5-af95-b6cc78eeb7a9" name="Default" comment="" />
+      <created>1396888237393</created>
+      <updated>1396888237393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25121164" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://PHP/\AccessDaoComposeGroupe">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\AccessDaoComposeGroupe</OriginalElement>
+          <nodes>
+            <node x="-153.5" y="-44.0">\DaoI</node>
+            <node x="33.0" y="186.0">\AccessDaoComposeGroupe</node>
+            <node x="4.0" y="98.0">\Dao</node>
+            <node x="-117.0" y="186.5">\AccessDaoInstrument</node>
+            <node x="-257.0" y="189.5">\AccessDaoGroupeM</node>
+            <node x="166.5" y="-34.0">\ConnectDao</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\AccessDaoComposeGroupe" target="\Dao">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="\AccessDaoGroupeM" target="\Dao">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="\Dao" target="\DaoI">
+              <point x="-13.25" y="-14.0" />
+              <point x="-7.75" y="58.0" />
+              <point x="-10.0" y="49.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="\AccessDaoInstrument" target="\Dao">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="\Dao" target="\ConnectDao">
+              <point x="13.25" y="-14.0" />
+              <point x="95.75" y="53.0" />
+              <point x="130.0" y="53.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-138.0" y="31.5" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\GroupesM">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\GroupesM</OriginalElement>
+          <nodes>
+            <node x="140.0" y="151.0">\UtilisateurM</node>
+            <node x="0.0" y="0.0">\PersonnesM</node>
+            <node x="0.0" y="151.0">\TestConnect</node>
+            <node x="0.0" y="224.0">\GroupesM</node>
+            <node x="3.5" y="78.0">\MembresM</node>
+            <node x="137.0" y="0.0">\PaysRegionM</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\MembresM" target="\PersonnesM">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-109.0" y="65.5" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Pays">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Pays</OriginalElement>
+          <nodes>
+            <node x="124.0" y="0.0">\ComposeGroupe</node>
+            <node x="3.5" y="78.0">\Membre</node>
+            <node x="132.0" y="151.0">\Utilisateur</node>
+            <node x="0.0" y="151.0">\Instrument</node>
+            <node x="0.0" y="297.0">\Pays</node>
+            <node x="238.0" y="224.0">\Region</node>
+            <node x="0.0" y="0.0">\Personne</node>
+            <node x="124.0" y="224.0">\Groupe</node>
+            <node x="0.0" y="224.0">\Specialite</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\Membre" target="\Personne">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-74.0" y="102.0" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Dao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Dao</OriginalElement>
+          <nodes>
+            <node x="468.4549839228296" y="-43.0450160771704">\DaoI</node>
+            <node x="456.0" y="176.0">\AccessDaoRegion</node>
+            <node x="3.5" y="254.0">\AccessDaoMembre</node>
+            <node x="873.0" y="176.0">\AccessDaoInstrument</node>
+            <node x="0.0" y="176.0">\AccessDaoPersonne</node>
+            <node x="0.0" y="327.0">\DaoFactory</node>
+            <node x="572.847266881029" y="-57.393354769560545">\ConnectDao</node>
+            <node x="151.0" y="176.0">\AccessDaoUtilisateur</node>
+            <node x="1032.0" y="176.0">\AccessDaoComposeGroupe</node>
+            <node x="544.042872454448" y="27.128617363344063">\Dao</node>
+            <node x="595.0" y="176.0">\AccessDaoGroupeM</node>
+            <node x="305.0" y="176.0">\AccessDaoSpecialite</node>
+            <node x="744.0" y="176.0">\AccessDaoPays</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\AccessDaoMembre" target="\AccessDaoPersonne">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="\AccessDaoComposeGroupe" target="\Dao">
+              <point x="0.0" y="-14.0" />
+              <point x="1114.5" y="126.0" />
+              <point x="610.6875" y="126.0" />
+              <point x="23.1875" y="14.0" />
+            </edge>
+            <edge source="\AccessDaoSpecialite" target="\Dao">
+              <point x="0.0" y="-14.0" />
+              <point x="370.5" y="146.0" />
+              <point x="577.5625" y="146.0" />
+              <point x="-9.9375" y="14.0" />
+            </edge>
+            <edge source="\AccessDaoGroupeM" target="\Dao">
+              <point x="0.0" y="-14.0" />
+              <point x="659.5" y="156.0" />
+              <point x="590.8125" y="156.0" />
+              <point x="3.3125" y="14.0" />
+            </edge>
+            <edge source="\AccessDaoPays" target="\Dao">
+              <point x="0.0" y="-14.0" />
+              <point x="798.5" y="146.0" />
+              <point x="597.4375" y="146.0" />
+              <point x="9.9375" y="14.0" />
+            </edge>
+            <edge source="\AccessDaoPersonne" target="\Dao">
+              <point x="0.0" y="-14.0" />
+              <point x="65.5" y="126.0" />
+              <point x="564.3125" y="126.0" />
+              <point x="-23.1875" y="14.0" />
+            </edge>
+            <edge source="\Dao" target="\DaoI">
+              <point x="-13.25" y="-14.0" />
+              <point x="574.25" y="53.0" />
+              <point x="540.0" y="53.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="\AccessDaoUtilisateur" target="\Dao">
+              <point x="0.0" y="-14.0" />
+              <point x="218.0" y="136.0" />
+              <point x="570.9375" y="136.0" />
+              <point x="-16.5625" y="14.0" />
+            </edge>
+            <edge source="\AccessDaoInstrument" target="\Dao">
+              <point x="0.0" y="-14.0" />
+              <point x="942.5" y="136.0" />
+              <point x="604.0625" y="136.0" />
+              <point x="16.5625" y="14.0" />
+            </edge>
+            <edge source="\Dao" target="\ConnectDao">
+              <point x="13.25" y="-14.0" />
+              <point x="600.75" y="53.0" />
+              <point x="635.0" y="53.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="\AccessDaoRegion" target="\Dao">
+              <point x="0.0" y="-14.0" />
+              <point x="515.5" y="156.0" />
+              <point x="584.1875" y="156.0" />
+              <point x="-3.3125" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7666392769104355" x="303.0546623794212" y="98.58413719185421" />
+          <SelectedNodes>
+            <node>\ConnectDao</node>
+          </SelectedNodes>
+          <Categories />
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Cookie">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Cookie</OriginalElement>
+          <nodes>
+            <node x="0.0" y="146.0">\Session</node>
+            <node x="130.0" y="0.0">\AutoLoad</node>
+            <node x="115.0" y="146.0">\Cookie</node>
+            <node x="0.0" y="73.0">\Requete</node>
+            <node x="120.0" y="73.0">\Routeur</node>
+            <node x="0.0" y="0.0">\Controleur</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-121.5" y="26.5" />
+          <SelectedNodes>
+            <node>\Session</node>
+            <node>\AutoLoad</node>
+            <node>\Cookie</node>
+            <node>\Requete</node>
+            <node>\Routeur</node>
+            <node>\Controleur</node>
+          </SelectedNodes>
+          <Categories />
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\ControleurAccueil">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\ControleurAccueil</OriginalElement>
+          <nodes>
+            <node x="" y="">\ControleurAccueil</node>
+            <node x="" y="">\Session</node>
+            <node x="" y="">\PersonnesM</node>
+            <node x="" y="">\Requete</node>
+            <node x="" y="">\GroupesM</node>
+            <node x="" y="">\Personne</node>
+            <node x="" y="">\Vue</node>
+            <node x="" y="">\MembresM</node>
+            <node x="" y="">\Groupe</node>
+            <node x="" y="">\Controleur</node>
+            <node x="" y="">\Specialite</node>
+            <node x="" y="">\ComposeGroupe</node>
+            <node x="" y="">\Membre</node>
+            <node x="" y="">\ControleurMembres</node>
+            <node x="" y="">\Instrument</node>
+            <node x="" y="">\Cookie</node>
+            <node x="" y="">\AutoLoad</node>
+            <node x="" y="">\Routeur</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.993194925028835" x="396.68261525955177" y="345.06921379630705" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entites/Groupe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

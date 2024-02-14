@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html dir='ltr' lang='fr'>
+<head>
+<title>Air de Java</title>
+<meta content="Air de Java" name="description" />
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+<meta content='Arnaud Gac' name='author' />
+<link rel="stylesheet" type="text/css" href="vues/style.css" />
+<!--[if lt IE 9]> <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+<script
+	src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'
+	type='text/javascript'></script>
+</head>
+<body role="application">
+	<header id="entete">
+		<h1 class="swing">Air de Java</h1>
+		<nav role="navigation">
+			<ul>
+				<li><a href="#">Accueil</a></li>
+				<li><a href="#">Contact</a></li>
+				<li><a href="#">Plan du site</a></li>
+				<li><a href="#">Aide</a></li>
+				<li><a href="vueConnexion.html">D�connexion</a></li>
+			</ul>
+		</nav>
+		<div class='cb'></div>
+	</header>
+
+
+	<main role="main"> <!-- vue connexion -->
+	
+		Bonjour {NOM} !C'est ce fichier qui définit l'apparence. 
+Le nom et l'extension du fichier importent peu, 
+c'est à vous de créer une convention qui vous indique que c'est un fichier template.
+
+<!-- BEGIN article -->
+		<td>{compteur}</td>
+<!-- END article -->
+
+		<nav class='fil-ariane'>
+			<ul>
+				<li itemscope='itemscope'
+					itemtype='http://data-vocabulary.org/Breadcrumb'><a href='/'
+					itemprop='url'><span itemprop='title'>Accueil</span></a></li>
+				<li itemscope='itemscope'
+					itemtype='http://data-vocabulary.org/Breadcrumb'><a href='/'
+					itemprop='url'><span itemprop='title'>Groupes</span></a></li>
+				<li itemscope='itemscope'
+					itemtype='http://data-vocabulary.org/Breadcrumb'><a href='/'
+					itemprop='url'><span itemprop='title'>Accueil</span></a></li>
+			</ul>
+		</nav>
+	</main>
+</body>
+</html>

@@ -1,0 +1,297 @@
+@import url(http://fonts.googleapis.com/css?family=Warnes);
+
+main, article, section, header{display:block;}
+
+
+ol {
+	display: block;
+	-webkit-margin-before: 0;
+	-webkit-margin-after: 0;
+	-webkit-margin-start: 0;
+	-webkit-margin-end: 0;
+	-webkit-padding-start: 0;
+	-moz-margin-before: 0;
+	-moz-margin-after: 0;
+	-moz-margin-start: 0;
+	-moz-margin-end: 0;
+	-moz-padding-start: 0;
+	-moz-padding-end: 0;
+}
+
+html body .content-outer {
+	min-width: 0;
+	max-width: 100%;
+	width: 100%;
+}
+
+iframe {
+	border: 0;
+}
+
+img {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+}
+
+p {margin-bottom:2em;}
+.cb {
+	clear: both;
+}
+
+html {
+	font-size: 100%;
+}
+
+::-webkit-scrollbar {
+	height: 1em;
+	width: 1.5em;
+	background: GhostWhite;
+} /**/
+::-webkit-scrollbar-thumb {
+	background: #0B614B;
+	-webkit-box-shadow: 0 0 5px #888;
+} /*ascenseur*/
+::-webkit-scrollbar-thumb:hover {
+	background: purple;
+}
+
+::-webkit-scrollbar-button {
+	background: #0B6121;
+	-webkit-box-shadow: inset 0 0 0 .0625em rgb(79, 79, 79), inset 0 0 0
+		.375em rgb(102, 102, 102);
+} /*bouton bas et haut*/
+body {
+	background: #5D7384;
+	color: black;
+	font-size: 90%;
+	font-family: Verdana, 'Trebuchet MS', Georgia;
+}
+
+/*elements principaux*/
+footer,header,main {
+	background: white;
+	width: 90%;
+	max-width: 60em;
+	margin: 2.2em auto 2.2em auto;
+	-webkit-box-shadow: 0.3em 0.3em 0.3em 0 rgba(50, 50, 50, 0.75);
+	-moz-box-shadow: 0.2em 0.2em 0.2em 0 rgba(50, 50, 50, 0.75);
+	box-shadow: 0.2em 0.2em 0.2em 0 rgba(50, 50, 50, 0.75);
+}
+
+a {
+	color: #046380;
+	cursor:pointer;
+}
+
+a:hover {
+	color: purple;
+}
+
+li {
+	margin-bottom: 1em;
+}
+
+footer,header {
+	padding: 1em 3% 1em 3%;
+}
+
+#entete {
+	background: #F2F2F2;
+}
+
+
+h1 {
+	font-family: 'Warnes';font-weight:normal;color:#333333;
+}
+
+figure{
+	margin:3em auto 3em auto;
+}
+
+figure img{
+	-webkit-box-shadow: 0.2em 0.2em 0.2em 0 #729179;
+	-moz-box-shadow: 0.2em 0.2em 0.2em 0 #729179;
+	box-shadow: 0.2em 0.2em 0.2em 0 #729179;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	text-shadow: -1px 0 #1F2A36, 0 1px #1F2A36, 1px 0 #1F2A36, 0 -1px
+		#1F2A36;
+	border: 1px solid gray;
+	margin:auto;
+	display:block;
+	
+}
+
+#entete h1 {
+	font-family: 'Warnes';
+	font-size: 290%;
+	color: #1D702D;
+	width: auto;
+	display: inline-block;
+	border: 1px solid #2F574D;
+	padding: 0.3em;
+	-webkit-box-shadow: 0.1em 0.1em 0.1em 0 #729179;
+	-moz-box-shadow: 0.1em 0.1em 0.1em 0 #729179;
+	box-shadow: 0.1em 0.1em 0.1em 0 #729179;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	text-shadow: -1px 0 #1F2A36, 0 1px #1F2A36, 1px 0 #1F2A36, 0 -1px
+		#1F2A36;
+}
+
+
+
+section header,article header {
+	width: 94%;
+	margin: 1.5em auto 2.3em auto;
+	border: 1px solid #34393E;
+}
+
+section header:hover,article header:hover {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	cursor: pointer;
+	color: blue;
+}
+
+article,section {
+	margin-bottom: 2.5em;
+}
+
+footer ul,nav,nav ul {
+	width: 100%;
+	float: left;
+}
+
+footer li,nav li {
+	float: left;
+	margin-right: 5%;
+}
+
+#lien-haut-page,#lien-haut-page a {
+	color: #FF0000;
+}
+
+main {
+	padding: 0.5em 3% 3.5em 3%;
+}
+
+/*formulaires*/
+form {
+	margin: 0 auto 2em auto;
+}
+
+form ol {
+	list-style: none;
+}
+
+fieldset {
+	margin: 0.3em 0 1em 0;
+}
+
+legend {
+	margin-bottom: 1.3em;
+}
+
+form li {
+	margin: 0 1.3em 1.3em 0;
+}
+
+
+input[type="submit"] {
+	background: #375D81;
+	color: white;
+	padding: 0.5em;
+	font-size: 110%;
+}
+
+input[type="reset"] {
+	background: red;
+	color: white;
+	padding: 0.5em;
+	font-size: 110%;
+}
+
+input[type="checkbox"]:hover,select:hover,option:hover {
+	cursor: pointer;
+}
+
+input[type="text"]:hover,input[type="tel"]:hover {
+	cursor: text;
+}
+
+input[type=submit]:focus,input[type=reset]:focus,input[type=submit]:hover,input[type=reset]:hover{
+	background-color: #FFF3F3;
+	color: black;
+	cursor: pointer;
+}
+
+input {
+	border: 1px solid gray;
+	-moz-box-shadow: inset 0 0 0.2em #000000;
+	-webkit-box-shadow: inset 0 0 0.2em #000000;
+	box-shadow: inset 0 0 0.2em #000000;
+	max-width: 100%;
+	padding:0.2em 0.4em 0.2em 0.4em;
+}
+
+#erreur {
+	display: none;
+}
+
+#instruments {
+	width: 100%;
+}
+
+
+/*tableau*/
+table {
+	width: 100%;
+	border: 2px solid white;
+	border-collapse: collapse;
+}
+
+tr {
+	border-bottom: 1px solid gray;
+}
+
+caption {
+	margin-bottom: 0.8em;
+	font-size: 115%;
+}
+
+tbody {
+	width: 100%;
+	text-align: left;
+}
+
+section {
+	width: 100%;
+}
+
+/*groupes*/
+/*#result-groupes {color:white;margin:2em 0 4em 0;}*/
+#liste-membres li, #result-personnes li, #result-groupes li{color:white;width:100%;padding:0.8em 0 0.8em 0; border-bottom:1px solid gray;}
+/*#result-groupes li span{color:black;float:left;width:35%;margin-right:5%;}*/
+
+.nom-clic{color:blue;margin-left:3%;}
+.nom-clic:hover{color:green!important;cursor:pointer;}
+
+#result-groupes em{font-style:normal;font-weight:bold;}
+
+
+.fil-ariane ul,.fil-ariane li {
+	list-style: none;
+}
+
+.toggle legend, .toggle h1{
+cursor:pointer;
+text-decoration:underline;
+}
+.toggle legend:hover, .toggle h1:hover{color:green;}
+
+.cacher{display:none;}
